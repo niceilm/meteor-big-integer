@@ -1,0 +1,1 @@
+bigInt = Npm.require('big-integer');
