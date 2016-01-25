@@ -6,4 +6,7 @@
 
 ## Directory-based project format:
 .idea/
+
+## generate
 .npm
+.versions
